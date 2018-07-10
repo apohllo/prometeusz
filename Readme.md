@@ -1,6 +1,6 @@
 # Prometheus
 
-Some support files when working with Prometheus supercomputer.
+Some support files needed when working in Jupyter on the Prometheus supercomputer at Cyfronet.
 
 ## Logging
 
