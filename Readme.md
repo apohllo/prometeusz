@@ -8,6 +8,9 @@ Some support files needed when working in Jupyter on the Prometheus supercompute
 ssh pro -L 9000:localhost:9000
 git clone https://github.com/apohllo/prometeusz.git
 cd prometeusz
+# start interactive session
+srun ...
+# inside interactive session
 ./jupyter3.sh
 # wait 7 seconds
 # enter your password
